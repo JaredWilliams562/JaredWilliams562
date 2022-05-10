@@ -1,11 +1,10 @@
 <div>
-Welcome! I'm Jared Williams | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/>
+Welcome! I'm Jared Williams | <img align="center" height="18px" src="https://wakatime.com/badge/user/4695e52f-d703-4c67-91f2-246767710168.svg"/>
 </div>
 <br/>
-
 <div>
 <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JaredWilliams562&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredWilliams562&layout=compact&langs_count=8&theme=radical"/>
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredWilliams562&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block; "><br>
