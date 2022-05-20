@@ -25,7 +25,7 @@ Welcome! I'm Jared Williams | <img align="center" height="18px" src="https://wak
 </div>
 <hr/>
 
-- 🔭 I’m currently working on Trainsquare
+- 🔭 My most recent project is Trainsquare
 - 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
 - 📫 How to reach me: https://www.linkedin.com/in/jared-d-williams/
